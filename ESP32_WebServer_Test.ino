@@ -3,8 +3,8 @@
 #include "ESP32WebServer.h"
 #include <ESPmDNS.h>
 
-const char* ssid = "SleepMaker";
-const char* password = "CodeStudio1314";
+const char* ssid = "........";
+const char* password = "........";
 
 ESP32WebServer server(80);
 
