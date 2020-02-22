@@ -28,7 +28,6 @@
 #include "WiFiServer.h"
 #include "WiFiClient.h"
 #include "ESP32WebServer.h"
-#include "FS.h"
 #include "RequestHandlersImpl.h"
 
 //#define DEBUG_ESP_HTTP_SERVER
